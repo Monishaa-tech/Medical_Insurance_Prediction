@@ -58,5 +58,4 @@ streamlit run app.py
 ```
 
 ## 👨‍💻 Developed By
-
-Giri Prasath
+   Monishaa
